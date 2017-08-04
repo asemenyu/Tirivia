@@ -1,0 +1,16 @@
+
+
+body {
+  background: url(../images/trivia.png);
+  background-size: 1200px 700px;
+  background-attachment: fixed;
+  content: left;
+  color: red;
+}
+
+#questions {
+    background-color: white;
+    width: 700px;
+    padding: 25px;
+    border: 25px solid grey;
+}
